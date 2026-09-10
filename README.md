@@ -26,4 +26,4 @@
 10. ビルド番号を7回タップする
 11. 開発者向けオプションを開く
 12. USBデバッグをONにする
-13. 
+13. [](https://developer.android.com/tools/releases/platform-tools#downloads)
